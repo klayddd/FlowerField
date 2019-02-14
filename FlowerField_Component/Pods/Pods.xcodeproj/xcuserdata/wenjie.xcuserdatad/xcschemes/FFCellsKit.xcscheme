@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9F803F2540292B50C0358C2A3EE1F78A"
-               BlueprintName = "YYImage"
+               BlueprintIdentifier = "6B356FDA31B0B87FDB1DF6F5F77E304B"
+               BlueprintName = "FFCellsKit"
                ReferencedContainer = "container:Pods.xcodeproj"
-               BuildableName = "YYImage.framework">
+               BuildableName = "FFCellsKit.framework">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

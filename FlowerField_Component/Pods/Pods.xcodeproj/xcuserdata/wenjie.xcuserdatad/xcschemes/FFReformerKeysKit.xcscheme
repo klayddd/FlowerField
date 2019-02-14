@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9F803F2540292B50C0358C2A3EE1F78A"
-               BlueprintName = "YYImage"
+               BlueprintIdentifier = "861A83C40EC87A4280AED919E79C5A00"
+               BlueprintName = "FFReformerKeysKit"
                ReferencedContainer = "container:Pods.xcodeproj"
-               BuildableName = "YYImage.framework">
+               BuildableName = "FFReformerKeysKit.framework">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

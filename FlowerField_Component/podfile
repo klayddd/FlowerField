@@ -13,5 +13,8 @@ pod 'YYWebImage'
 pod 'ReactiveCocoa', '~> 2.5'
 pod 'FFCategoryKit', '~> 0.3.0'
 pod 'FFAPIsKit', '~> 0.1.0'
+pod 'FFCellsKit', '~> 0.1.0'
+pod 'FFReformerKeysKit', '~> 0.1.0'
+pod 'FFConfigsKit', '~> 0.1.0'
 end
 
